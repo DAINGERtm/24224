@@ -1,0 +1,7 @@
+h1 {
+  font-family: Arial;
+  font-size: 30px;
+  text-align: center;
+  text-shadow: 1px 1px 3px #666666,
+              -1px -1px 3px #FFFFFF;
+}
